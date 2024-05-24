@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- ⚡ Fun fact **I am an avid cryptocurrency enthusiast**
+- ⚡ A fun fact about me is **I am an avid cryptocurrency enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
