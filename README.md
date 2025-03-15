@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Logan</h1>
-<h3 align="center">A first-year Computer Science student from New Zealand</h3>
+<h3 align="center">A second-year Computer Science student from New Zealand</h3>
 
 - 🔭 I’m currently working on [Meeting Scheduler](https://github.com/lo-ganxxx/meeting-scheduler)
 
 - 🌱 I’m currently learning **Next.js**
 
-- ⚡ A fun fact about me is **I am an avid cryptocurrency enthusiast**
+- ⚡ A fun fact about me is **I love maths**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
