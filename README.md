@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Logan</h1>
 <h3 align="center">A second-year Computer Science student from New Zealand</h3>
 
-- 🔭 I’m currently working on [Meeting Scheduler](https://github.com/lo-ganxxx/meeting-scheduler)
+- 🔭 I’m currently working on a [Recipe browsing web app (private organisation repository)]()
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Java**
 
 - ⚡ A fun fact about me is **I love maths**
 
