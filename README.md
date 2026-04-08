@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Logan</h1>
-<h3 align="center">A second-year Computer Science student from New Zealand</h3>
+<h3 align="center">A final year Computer Science student from New Zealand</h3>
 
-- 🔭 I’m currently working on a [Recipe browsing web app (private organisation repository)]()
+- 🔭 I’m currently working on a [Concert booking web app (private organisation repository)]()
 
 - 🌱 I’m currently learning **Java**
 
